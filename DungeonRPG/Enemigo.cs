@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace DungeonRPG
 {
-    internal class Program
+    internal class Enemigo
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Bienvebido Dungeon master");
-        }
-
     }
 }
